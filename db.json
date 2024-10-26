@@ -1,0 +1,276 @@
+[
+  {
+    "ref": "f5b53aaa-c539-4ac4-80bb-e02a4febf268",
+    "keyword": "17c79d3dea37d07392d53d6be753a2aa",
+    "answer": "Nanostore",
+    "options": {},
+    "from": "5215567905798",
+    "refSerialize": "ad94955d240b1fbc846a0390202acccb"
+  },
+  {
+    "ref": "ans_ab765835-cce8-4d34-8540-5c7de6b31081",
+    "keyword": "key_a981c14b-71a8-495a-a348-7ade8e1e9439",
+    "answer": "Hola! Soy tu asistente personal para tu tienda de abarrotes, escribe la palabra para seleccionar una opción.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1500,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8479a891852f50950373700c9f8b3ad7",
+    "from": "5215567905798"
+  },
+  {
+    "ref": "ans_aa0f5992-1ed2-406f-9f18-ba015114fc07",
+    "keyword": "ans_ab765835-cce8-4d34-8540-5c7de6b31081",
+    "answer": "👉 texto - Consulta sobre productos y ventas (texto)\n👉 voz - Consulta sobre productos y ventas (audio)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "16818502f45f107f63360ed1a1760dd6",
+    "from": "5215567905798"
+  },
+  {
+    "ref": "47424b85-78cc-482a-a1ad-7a34068a7e2b",
+    "keyword": "16818502f45f107f63360ed1a1760dd6",
+    "answer": "Voz",
+    "options": {},
+    "from": "5215567905798",
+    "refSerialize": "424398d07b5f93e38d28747b1e3f7074"
+  },
+  {
+    "ref": "ans_2425edf4-4fcc-4f3e-94a3-392a6aa63902",
+    "keyword": "key_81f5c112-d673-47bb-937c-1c4c18d2d74e",
+    "answer": "Envíame tu nota de voz.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9ade58acf9d5e92901dc14e8f19042dc",
+    "from": "5215567905798"
+  },
+  {
+    "ref": "beb3e0d6-0e29-46ea-8d47-060c06558194",
+    "keyword": "9ade58acf9d5e92901dc14e8f19042dc",
+    "answer": "_event_voice_note__8377af77-0afc-4ea2-852b-ce75c7a011a3",
+    "options": {},
+    "from": "5215567905798",
+    "refSerialize": "de24edf351942cef7567263588966176"
+  },
+  {
+    "ref": "152ef5bd-57d7-4525-bb2e-6211916c1134",
+    "keyword": null,
+    "answer": "¡Entendido! Puedo ayudarte a analizar las ventas de tu tienda de abarrotes para determinar qué productos debes comprar más.\n\nPrimero, procesaré los datos que me has proporcionado para obtener información sobre las ventas de cada producto.\n\n**Productos más vendidos:**\n\nNecesitamos calcular la cantidad total vendida de cada producto para determinar cuáles son los más populares. \n\n* **Mantecadas:**  \n    * Venta 1: 10 unidades\n    * Venta 6: 3 unidades\n    * **Total: 13 unidades**\n* **Salchicha Pavo Swan:** \n    * Venta 2: 5 unidades\n    * **Total: 5 unidades**\n* **Pingüinos:**\n    * Venta 2: 2 unidades\n    * Venta 3: 2 unidades\n    * Venta 4: 4 unidades\n    * Venta 5: 4 unidades\n    * **Total: 12 unidades**\n\n**Conclusión:**\n\n* **Las Mantecadas son el producto que más se ha vendido (13 unidades).** \n* **Los Pingüinos le siguen de cerca con 12 unidades vendidas.**\n* **La Salchicha Pavo Swan ha tenido una venta menor, con 5 unidades vendidas.**\n\n**Recomendaciones de compra:**\n\n* **Prioriza la compra de Mantecadas y Pingüinos.** Dado que son los productos que más se venden, asegúrate de tener un buen inventario para satisfacer la demanda.\n* **Evalúa la compra de Salchicha Pavo Swan.** Aunque tuvo menor venta, puede que sea una buena opción considerar si su margen de ganancia es atractivo.\n* **Considera la frecuencia de las ventas:** Es importante no solo considerar la cantidad total vendida, sino también la frecuencia con la que se venden los productos. Por ejemplo, si las Mantecadas se vendieron en dos ocasiones, mientras que los Pingüinos se vendieron en 5, es posible que los Pingüinos se vendan con mayor frecuencia, aunque en menor cantidad por venta.\n\n**Consideraciones adicionales:**\n\n* **Temporada:** Ten en cuenta las temporadas del año y las preferencias de tus clientes. Por ejemplo, puede que durante la época navideña las ventas de productos específicos aumenten.\n* **Ofertas:** Realiza ofertas y promociones para impulsar las ventas de ciertos productos.\n* **Rotación de inventario:** Evita tener productos almacenados por mucho tiempo. \n\nEspero que esta información te sea útil para tomar decisiones inteligentes sobre tus compras y optimizar las ventas en tu tienda de abarrotes. \n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215567905798",
+    "refSerialize": "f1a1400dac79b9911372498e86a781da"
+  },
+  {
+    "ref": "ans_ab765835-cce8-4d34-8540-5c7de6b31081",
+    "keyword": "key_a981c14b-71a8-495a-a348-7ade8e1e9439",
+    "answer": "Hola! Soy tu asistente personal para tu tienda de abarrotes, escribe la palabra para seleccionar una opción.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1500,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8479a891852f50950373700c9f8b3ad7",
+    "from": "5215626556923"
+  },
+  {
+    "ref": "ans_aa0f5992-1ed2-406f-9f18-ba015114fc07",
+    "keyword": "ans_ab765835-cce8-4d34-8540-5c7de6b31081",
+    "answer": "👉 texto - Consulta sobre productos y ventas (texto)\n👉 voz - Consulta sobre productos y ventas (audio)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "16818502f45f107f63360ed1a1760dd6",
+    "from": "5215626556923"
+  },
+  {
+    "ref": "2e45a8d1-87da-436b-9555-90543c973369",
+    "keyword": "16818502f45f107f63360ed1a1760dd6",
+    "answer": "texto",
+    "options": {},
+    "from": "5215626556923",
+    "refSerialize": "1ddcdb4a04eb0e18f18265f6502fbaed"
+  },
+  {
+    "ref": "ans_0712954e-75e6-4544-ac9a-c90efcc9033e",
+    "keyword": "key_6e7302cc-348f-43b2-a0e3-9636a538d720",
+    "answer": "¿Qué duda o preocupación tienes sobre tus productos y ventas?.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "e92bb068b6c3ea02d5de9d99e295c7f6",
+    "from": "5215626556923"
+  },
+  {
+    "ref": "7c1f91c4-1a25-4faa-bde2-1155f55991bf",
+    "keyword": "e92bb068b6c3ea02d5de9d99e295c7f6",
+    "answer": "_event_voice_note__4fcf6e5c-80f9-4d58-b9d9-a2a1ba82f784",
+    "options": {},
+    "from": "5215626556923",
+    "refSerialize": "cd38c1163690d91bd82eeacec90a011a"
+  },
+  {
+    "ref": "ed065d89-ef77-4953-b0b1-7dd5713a688f",
+    "keyword": null,
+    "answer": "Por favor, proporciona la pregunta que el dueño de la tienda de abarrotes te hizo. \n\nNecesito saber qué quiere saber para poder ayudarte a encontrar la respuesta en los datos de productos y ventas que has proporcionado. 😊\n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215626556923",
+    "refSerialize": "8aeffa86fc68c9c7036879bf57ede69a"
+  },
+  {
+    "ref": "b40a2e3b-92a0-4ac8-986e-b0ad33b11a67",
+    "keyword": "cd38c1163690d91bd82eeacec90a011a",
+    "answer": "nanostore",
+    "options": {},
+    "from": "5215626556923",
+    "refSerialize": "1d4518312bbf88bc9b56321e319d5f6a"
+  },
+  {
+    "ref": "ans_ab765835-cce8-4d34-8540-5c7de6b31081",
+    "keyword": "key_a981c14b-71a8-495a-a348-7ade8e1e9439",
+    "answer": "Hola! Soy tu asistente personal para tu tienda de abarrotes, escribe la palabra para seleccionar una opción.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 1500,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8479a891852f50950373700c9f8b3ad7",
+    "from": "5215626556923"
+  },
+  {
+    "ref": "ans_aa0f5992-1ed2-406f-9f18-ba015114fc07",
+    "keyword": "ans_ab765835-cce8-4d34-8540-5c7de6b31081",
+    "answer": "👉 texto - Consulta sobre productos y ventas (texto)\n👉 voz - Consulta sobre productos y ventas (audio)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "16818502f45f107f63360ed1a1760dd6",
+    "from": "5215626556923"
+  },
+  {
+    "ref": "860c947f-43de-4fbe-a71c-520b8fdc95b0",
+    "keyword": "16818502f45f107f63360ed1a1760dd6",
+    "answer": "voz",
+    "options": {},
+    "from": "5215626556923",
+    "refSerialize": "1f3533a790e4ece6cdfcd44efd45af73"
+  },
+  {
+    "ref": "ans_2425edf4-4fcc-4f3e-94a3-392a6aa63902",
+    "keyword": "key_81f5c112-d673-47bb-937c-1c4c18d2d74e",
+    "answer": "Envíame tu nota de voz.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9ade58acf9d5e92901dc14e8f19042dc",
+    "from": "5215626556923"
+  },
+  {
+    "ref": "799b142b-ad15-404e-b018-71b6ae8ca4df",
+    "keyword": "9ade58acf9d5e92901dc14e8f19042dc",
+    "answer": "_event_voice_note__ab4f0e5a-555a-40ea-bf75-a3f0e923bfe6",
+    "options": {},
+    "from": "5215626556923",
+    "refSerialize": "14774b40f07d7b6c0825d023134adc39"
+  },
+  {
+    "ref": "b76e2f4d-86e2-40b1-95c8-d3f5e89c9003",
+    "keyword": null,
+    "answer": "¡Claro que sí! Para responder a tu pregunta, primero debemos analizar la información que nos has dado. \n\n**En base a tus datos, podemos determinar:**\n\n* **Producto con más stock:** \n    * **Salchicha Pavo Swan** con un stock de 6 unidades.\n* **Producto más barato:** \n    * **Pingüinos** con un precio de 12 pesos. \n\n**Sin embargo, es importante considerar lo siguiente:**\n\n* **Datos incompletos:**  La información solo contempla las ventas del 25 y 26 de Octubre. No sabemos si hay otros productos en stock o si las cantidades de los productos mencionados se actualizaron después del 26 de Octubre. \n* **Precio vs Stock:**  El precio más bajo no siempre significa que sea el producto que más stock tenga, y viceversa. Para una mejor gestión, te recomiendo actualizar tu inventario con regularidad. \n\n**Recomendación:**\n\nPara tener una visión completa de tu stock y precios, te recomiendo utilizar una base de datos o un software de gestión de inventario. Esto te permitirá llevar un registro actualizado de todos tus productos, sus cantidades, precios y movimientos, para que puedas tomar decisiones más informadas sobre tu negocio. \n",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "5215626556923",
+    "refSerialize": "7573eabeaa4e103bd1252371cb0cda73"
+  }
+]
